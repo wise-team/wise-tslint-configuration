@@ -1,0 +1,22 @@
+{
+    "name": "wise-tslint-configuration",
+    "version": "0.1.0",
+    "description": "TSLint configuration for wise projects",
+    "main": "tslint.json",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wise-team/wise-tslint-configuration"
+    },
+    "keywords": [
+        "tslint", "linting", "wise"
+    ],
+    "author": "The Wise Team (https://wise-team.io/)",
+    "contributors": [
+        "Jędrzej Lewandowski <jedrzejblew@gmail.com> (https://jedrzej.lewandowski.doctor/)"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wise-team/wise-tslint-configuration/issues"
+    },
+    "homepage": "https://wise.vote/"
+}
