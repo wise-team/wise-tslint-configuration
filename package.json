@@ -1,6 +1,6 @@
 {
     "name": "wise-tslint-configuration",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "TSLint configuration for wise projects",
     "main": "tslint.json",
     "repository": {
